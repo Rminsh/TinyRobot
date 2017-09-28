@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="RobotView">
+        <attr name="angle" format="float"/>
+    </declare-styleable>
+</resources>
